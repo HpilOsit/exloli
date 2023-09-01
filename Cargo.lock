@@ -1607,7 +1607,7 @@ checksum = "20f34339676cdcab560c9a82300c4c2581f68b9369aedf0fae86f2ff9565ff3e"
 [[package]]
 name = "telegraph-rs"
 version = "0.6.2"
-source = "git+https://github.com/Aloxaf/telegraph-rs#336a3ee4ca37e13312e0c5bdba311e694e956466"
+source = "git+https://github.com/KiruyaMomochi/telegraph-rs"
 dependencies = [
  "libxml",
  "mime_guess",
